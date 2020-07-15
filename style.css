@@ -1,0 +1,44 @@
+.error {
+    color: #FF0000;
+}
+h2 {
+  text-align: center;
+  margin-top: 10%;
+}
+body {
+  background-color: rgb(230, 228, 228);
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 25%;
+}
+.form {
+  text-align: justify;
+  font-size: medium;
+}
+.button {
+  background-color: rgb(0, 0, 255);
+  border-radius: 15%;
+  color: white;
+  padding: 1% 4%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+.date {
+  width: 12%;
+  text-align: justify;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
